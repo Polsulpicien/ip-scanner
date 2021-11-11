@@ -32,17 +32,21 @@ This is the First Version of the IP Scanner i'm using to hack my high school.
 
 ## Setup
 
-__Step 1:__ 
-Install 'Colored'
+__Step 1:__
+Download the [Main.py](https://github.com/Polsulpicien/ip-scanner/blob/main/main.py) File.
+
+__Step 2:__
+Double click the Main.py File and it should open a New Terminal Window.
+
+__Step 3:__ 
+Enter a webhook.
+
+__Error:__ 
+The program should install the library 'colored' on it's own but if you have any issues, try to do it manualy. 
 ```pip install colored  ```
 or
 ```py -m pip install colored  ```
-
-__Step 2:__
-Download the [Main.py](https://github.com/Polsulpicien/ip-scanner/blob/main/main.py) File.
-
-__Step 3:__
-Double click the Main.py File and it should open a New Terminal Window.
+**If you have any others errors or need help, join the discord server.**
 
 ## License
 This project is under the [MIT License](https://github.com/Polsulpicien/ip-scanner/blob/main/LICENSE).
