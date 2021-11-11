@@ -20,10 +20,6 @@
   • [Setup](https://github.com/Polsulpicien/ip-scanner/#setup)  
   • [License](https://github.com/Polsulpicien/ip-scanner/#license) 
 
-**###############################**  
-**# PYTHON MAIN FILE COMING SOON! #**  
-**###############################**  
-
 ## Introduction
   
 This is the First Version of the IP Scanner i'm using to hack my high school. 
@@ -31,6 +27,7 @@ This is the First Version of the IP Scanner i'm using to hack my high school.
 ## Screenshots
 
 ![Screenshot](https://cdn.discordapp.com/attachments/804945677833994240/908307336681095209/unknown.png)
+![Screenshot_](https://cdn.discordapp.com/attachments/804945677833994240/908375078423633920/unknown.png)
 
 ## Setup
 
