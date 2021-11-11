@@ -1,7 +1,11 @@
-<div align="center">
-    <a href="https://discord.gg/xm9QX3Q"><img src="https://cdn.discordapp.com/attachments/831872376140070943/848225322640998400/polsu.png" alt="polsu logo" height="128" style="border-radius: 50%"></a>
-    <h1>Discord Python Advanced Calculator</h1>
-</div>
+```py
+        ██╗██████╗    ██████╗ █████╗  █████╗ ███╗  ██╗███╗  ██╗███████╗██████╗ 
+        ██║██╔══██╗  ██╔════╝██╔══██╗██╔══██╗████╗ ██║████╗ ██║██╔════╝██╔══██╗
+        ██║██████╔╝  ╚█████╗ ██║  ╚═╝███████║██╔██╗██║██╔██╗██║█████╗  ██████╔╝
+        ██║██╔═══╝    ╚═══██╗██║  ██╗██╔══██║██║╚████║██║╚████║██╔══╝  ██╔══██╗
+        ██║██║       ██████╔╝╚█████╔╝██║  ██║██║ ╚███║██║ ╚███║███████╗██║  ██║
+        ╚═╝╚═╝       ╚═════╝  ╚════╝ ╚═╝  ╚═╝╚═╝  ╚══╝╚═╝  ╚══╝╚══════╝╚═╝  ╚═╝ github.com/Polsulpicien
+```
 <div align="center">
         <a href="https://discord.gg/xm9QX3Q"><img src="https://img.shields.io/discord/761623845119328257?color=blue&label=Discord&logo=discord&style=for-the-badge" alt="Discord"></a>
         <a href="https://github.com/Polsulpicien/discord.py-advanced-calculator"><img src="https://img.shields.io/github/stars/Polsulpicien/ip-scanner?style=for-the-badge" alt="Stars"></a>
