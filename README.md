@@ -23,6 +23,7 @@
 ## Introduction
   
 This is the First Version of the IP Scanner i'm using to hack my high school. 
+*Only tested on Windows 10!*
 
 ## Screenshots
 
@@ -41,7 +42,7 @@ __Step 2:__
 Download the [Main.py](https://github.com/Polsulpicien/ip-scanner/blob/main/main.py) File.
 
 __Step 3:__
-Run it!
+Double click the Main.py File and it should open a New Terminal Window.
 
 ## License
 This project is under the [MIT License](https://github.com/Polsulpicien/ip-scanner/blob/main/LICENSE).
