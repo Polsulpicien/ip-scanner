@@ -22,7 +22,7 @@
 
 ## Introduction
   
-This is the First Version of the IP Scanner i'm using to hack my high school.  
+This is the First Version of the IP Scanner. You can scan all your local network.  
 ***Only tested on Windows 10!***
 
 ## Screenshots
