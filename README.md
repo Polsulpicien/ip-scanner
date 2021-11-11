@@ -22,8 +22,8 @@
 
 ## Introduction
   
-This is the First Version of the IP Scanner i'm using to hack my high school. 
-*Only tested on Windows 10!*
+This is the First Version of the IP Scanner i'm using to hack my high school.  
+***Only tested on Windows 10!***
 
 ## Screenshots
 
